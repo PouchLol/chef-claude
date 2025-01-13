@@ -1,0 +1,18 @@
+.navbar{
+    height: 30vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Inter", serif;
+    box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.10), 0px 1px 2px 0px rgba(0, 0, 0, 0.06);
+}
+.logo{
+    width: 3vw;
+    object-fit: cover;
+    height: 30vh;
+    padding-right: 10px;
+}
+.brand-name{
+    font-weight: 400;
+}
