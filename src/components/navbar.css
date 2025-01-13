@@ -1,5 +1,5 @@
 .navbar{
-    height: 30vh;
+    height: 120px;
     width: 100vw;
     display: flex;
     justify-content: center;
@@ -10,7 +10,7 @@
 .logo{
     width: 3vw;
     object-fit: cover;
-    height: 30vh;
+    height: 120px;
     padding-right: 10px;
 }
 .brand-name{
