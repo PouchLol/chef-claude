@@ -1,8 +1,7 @@
 .body-form{
     display: flex;
     justify-content: center;
-    position: relative;
-    top: 120px;
+    margin-top: 150px;
 }
 
 .body-input{
